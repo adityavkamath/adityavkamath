@@ -1,16 +1,31 @@
-### Hi there 👋
+# 👋 Hi there!
 
-<!--
-**adityavkamath/adityavkamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aditya V Kamath(https://github.com/adityavkamath), a passionate software developer from Udupi,Karnataka. 🌍 I love building applications that make a difference and solving challenging problems. 💻
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript 
+- React.js 
+- Node.js / Express.js 🛠️
+- HTML5 / CSS3 
+- Git / GitHub 
+- MySQL / MongoDB 📦
+
+## 🚀 Projects
+
+### Project 1: Basic Banking System
+
+- **Description**: This is a simple web application for managing customer information and transactions in a banking system. The application is built using Node.js, Express.js, and MongoDB. It allows users to view customer details, transfer money between customers, and keeps a record of all transactions.
+- **GitHub Repository**: https://github.com/adityavkamath/Sparks-Internship 🚀
+
+### Project 2: Blog Website
+
+- **Description**: This project is a simple web application built with Node.js and Express.js that includes a user registration form and a basic blog website. It utilizes MongoDB as the database for storing user information and blog posts.
+- **GitHub Repository**: https://github.com/adityavkamath/Bharat-Internship 🚀
+
+...
+
+## 📫 Get in Touch
+
+- LinkedIn: nkedin.com/in/aditya-v-kamath-186a74255/ 📱
+- Email: adityavkamath00@gmail.com 📧
