@@ -21,7 +21,7 @@ I'm Aditya V Kamath, a passionate software developer from Udupi, Karnataka.🌍 
 ### Project 2: Blog Website
 
 - **Description**: This project is a simple web application built with Node.js and Express.js that includes a user registration form and a basic blog website. It utilizes MongoDB as the database for storing user information and blog posts.
-- **GitHub Repository**: https://github.com/adityavkamath/Bharat-Internship 🚀
+- **GitHub Repository**: [Project 2](https://github.com/adityavkamath/Bharat-Internship) 🚀
   
 ...
 
