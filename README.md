@@ -16,7 +16,7 @@ I'm Aditya V Kamath, a passionate software developer from Udupi, Karnataka.🌍 
 ### Project 1: Basic Banking System
 
 - **Description**: This is a simple web application for managing customer information and transactions in a banking system. The application is built using Node.js, Express.js, and MongoDB. It allows users to view customer details, transfer money between customers, and keeps a record of all transactions.
-- **GitHub Repository**: https://github.com/adityavkamath/Sparks-Internship 🚀
+- **GitHub Repository**: [Project 1](https://github.com/adityavkamath/Sparks-Internship)🚀
 
 ### Project 2: Blog Website
 
