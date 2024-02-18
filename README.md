@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm [Aditya V Kamath](https://github.com/adityavkamath), a Computer Science Engineering Student from Udupi, Karnataka.🌍 I'm passionate about software development and love building applications that make a difference while solving challenging problems. 💻
+I'm [Aditya V Kamath](https://github.com/adityavkamath), a Computer Science Engineering Student from Udupi, Karnataka. 🌍 I'm passionate about software development and love building applications that make a difference while solving challenging problems. 💻
 
 ## 🔧 Technologies & Tools
 
@@ -27,5 +27,5 @@ I'm [Aditya V Kamath](https://github.com/adityavkamath), a Computer Science Engi
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Aditya V Kamath](linkedin.com/in/aditya-v-kamath-186a74255/) 📱
+- LinkedIn: [Aditya V Kamath](https://www.linkedin.com/in/aditya-v-kamath-186a74255/) 📱
 - Email: adityavkamath00@gmail.com 📧
