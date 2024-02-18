@@ -27,5 +27,5 @@ I'm Aditya V Kamath, a passionate software developer from Udupi, Karnataka.🌍 
 
 ## 📫 Get in Touch
 
-- LinkedIn: linkedin.com/in/aditya-v-kamath-186a74255/ 📱
+- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/aditya-v-kamath-186a74255/) 📱
 - Email: adityavkamath00@gmail.com 📧
