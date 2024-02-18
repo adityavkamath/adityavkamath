@@ -27,5 +27,5 @@ I'm [Aditya V Kamath](https://github.com/adityavkamath), a Computer Science Engi
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/aditya-v-kamath-186a74255/) 📱
+- LinkedIn: [Aditya V Kamath](linkedin.com/in/aditya-v-kamath-186a74255/) 📱
 - Email: adityavkamath00@gmail.com 📧
