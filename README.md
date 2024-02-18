@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Aditya V Kamath(https://github.com/adityavkamath), a passionate software developer from Udupi,Karnataka. 🌍 I love building applications that make a difference and solving challenging problems. 💻
+I'm Aditya V Kamath, a passionate software developer from Udupi,Karnataka. 🌍 I love building applications that make a difference and solving challenging problems. 💻
 
 ## 🔧 Technologies & Tools
 
