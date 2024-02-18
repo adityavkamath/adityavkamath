@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Aditya V Kamath, a passionate software developer from Udupi,Karnataka. 🌍 I love building applications that make a difference and solving challenging problems. 💻
+I'm Aditya V Kamath, a passionate software developer from Udupi, Karnataka.🌍 I love building applications that make a difference and solving challenging problems. 💻
 
 ## 🔧 Technologies & Tools
 
@@ -22,10 +22,10 @@ I'm Aditya V Kamath, a passionate software developer from Udupi,Karnataka. 🌍 
 
 - **Description**: This project is a simple web application built with Node.js and Express.js that includes a user registration form and a basic blog website. It utilizes MongoDB as the database for storing user information and blog posts.
 - **GitHub Repository**: https://github.com/adityavkamath/Bharat-Internship 🚀
-
+  
 ...
 
 ## 📫 Get in Touch
 
-- LinkedIn: nkedin.com/in/aditya-v-kamath-186a74255/ 📱
+- LinkedIn: linkedin.com/in/aditya-v-kamath-186a74255/ 📱
 - Email: adityavkamath00@gmail.com 📧
