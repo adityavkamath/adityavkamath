@@ -5,9 +5,8 @@ I'm [Aditya V Kamath](https://github.com/adityavkamath), a Computer Science Engi
 ## 🔧 Technologies & Tools
 
 - JavaScript 
-- React.js 
 - Node.js / Express.js 🛠️
-- HTML5 / CSS3 
+- HTML / CSS 
 - Git / GitHub 
 - MySQL / MongoDB 📦
 
