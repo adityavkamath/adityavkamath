@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKNO1f2s5UB2yEC/giphy.gif" alt="Typing GIF" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
 </div>
 
 ## 🛠️ Technologies & Tools
