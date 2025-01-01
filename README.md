@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX" />
 </p>
 
 ## 📊 GitHub Stats
@@ -39,16 +38,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark" alt="Aditya's GitHub Streak" />
 </div>
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.vercel.app/api?username=adityavkamath&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions.vercel.app/api?username=adityavkamath&theme=light" />
-    <img alt="GitHub Contributions" src="https://github-contributions.vercel.app/api?username=adityavkamath" />
-  </picture>
-</p>
 
 ## 🤝 Connect with me
 
