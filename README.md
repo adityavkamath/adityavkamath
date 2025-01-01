@@ -40,6 +40,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark" alt="Aditya's GitHub Streak" />
 </div>
 
+## 📊 GitHub Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.vercel.app/api?username=adityavkamath&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions.vercel.app/api?username=adityavkamath&theme=light" />
+    <img alt="GitHub Contributions" src="https://github-contributions.vercel.app/api?username=adityavkamath" />
+  </picture>
+</div>
+
 ## 🤝 Connect with me
 
 <p align="center">
