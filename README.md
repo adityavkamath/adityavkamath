@@ -42,9 +42,13 @@
 
 ## 📊 GitHub Contributions
 
-<div align="center">
-  <img alt="GitHub Contributions" src="https://github-contributions.vercel.app/api?username=adityavkamath&theme=dark" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.vercel.app/api?username=adityavkamath&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributions.vercel.app/api?username=adityavkamath&theme=light" />
+    <img alt="GitHub Contributions" src="https://github-contributions.vercel.app/api?username=adityavkamath" />
+  </picture>
+</p>
 
 ## 🤝 Connect with me
 
