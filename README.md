@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/adityavkamath" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya V Kamath" height="30" width="40"/>
   </a>
-  <a href="https://twitter.com/adityavkamath" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Aditya V Kamath" height="30" width="40"/>
-  </a>
 </p>
 <br>
 
@@ -20,7 +17,6 @@
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="45" height="45"/> </a>&nbsp; 
-<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sql" alt="sql" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="45" height="45"/> </a>&nbsp; 
