@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Aditya+V+Kamath;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">A passionate developer always striving to learn and improve 🚀</h3>
+<h3 align="center">Just a Programmer trying to get BETTER everyday 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityavkamath&label=Profile%20views&color=39D353&style=flat" alt="Profile views" />
@@ -38,12 +38,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark" alt="Aditya's GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityavkamath&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Aditya's GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
