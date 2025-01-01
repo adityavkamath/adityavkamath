@@ -1,53 +1,39 @@
-# Aditya V Kamath
+<h1 align="center">Hi 👋, I'm Aditya V Kamath</h1>
 
-<div align="left">
+## 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/adityavkamath" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya V Kamath" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/adityavkamath" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Aditya V Kamath" height="30" width="40"/>
+  </a>
+</p>
+<br>
 
+# 💻 Tech Stack and Tools:
+<p align="center"> 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sql" alt="sql" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="45" height="45"/> </a>&nbsp; 
+<a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="45" height="45"/> </a>&nbsp; 
+</p>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤷  <span false false style="color: #6b7281; font-weight: 300; ">Just a Programmer trying to get better everyday 👨‍💻</span>
-
-
-
-<div style="display: flex; align-items: center; margin-top: 20px;margin-bottom: 30px">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:adityavkamath2004@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/socials/mail.svg" alt="mail" /></a>
-        &nbsp;&nbsp;
-<a href="https://twitter.com/adityavkamath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/socials/twitter.svg" alt="twitter" /></a>
-        &nbsp;&nbsp;
-<a href="https://linkedin.com/in/adityavkamath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/socials/linkedin.svg" alt="linkedin" /></a>
-        &nbsp;&nbsp;
-<a href="https://instagram.com/adityavkamath" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/socials/instagram.svg" alt="instagram" /></a>
-        &nbsp;&nbsp;
-</div>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚐  <span false false style="color: #DBEAFE; font-weight: 300; ">India</span>
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ϟ Building <a href='' target="_blank" style="color: #DBEAFE; font-weight: 300; text-decoration: underline; text-decoration-color: slategray;">ECommerce Website</a>
-
-
-
-<br/>
-
-#### Skills
-
-<div align="left" style="margin-top: 20px; margin-bottom: 20px; display:flex; gap:10px; overflow:hidden; word-wrap:break-word;flex-wrap:wrap;">
-  <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/javascript.svg" alt="JavaScript" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/typescript.svg" alt="TypeScript" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/python.svg" alt="Python" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/java.svg" alt="Java" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/react.svg" alt="React" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/html.svg" alt="HTML" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/css.svg" alt="CSS" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/tailwindcss.svg" alt="TailwindCSS" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/node.js.svg" alt="Node.js" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/express.svg" alt="Express" /> &nbsp; <img src="https://raw.githubusercontent.com/SySagar/readme.dev/main/public/badges/rest.svg" alt="REST" /> &nbsp;
-</div>
-
-
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityavkamath&show_icons=true&theme=tokyonight)
-
-<br/>
-
-![trophies](https://github-profile-trophy.vercel.app/?username=adityavkamath)
-
-
-<br/>
-
-![counter](https://komarev.com/ghpvc/?username=adityavkamath)
-
-</div>
+# 📊 GitHub Stats:
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AdityaVKamath&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaVKamath&theme=radical&hide_border=false"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVKamath&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a>
+</p>
