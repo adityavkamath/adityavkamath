@@ -40,10 +40,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark" alt="Aditya's GitHub Streak" />
 </div>
 
-## 📈 Contribution Graph
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityavkamath&theme=github-compact" alt="Aditya's Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/adityavkamath/adityavkamath/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityavkamath&theme=github-compact&bg_color=0D1117&color=39D353&line=39D353&point=39D353&area=true&hide_border=true" alt="Aditya's GitHub Activity Graph" />
 </div>
 
 ## 🤝 Connect with me
