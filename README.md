@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=39D353&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Aditya+V+Kamath;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
+<h1 align="center">Hi 👋, I'm Aditya V Kamath</h1>
 <h3 align="center">Just a Programmer trying to get BETTER everyday 🚀</h3>
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="350"/>
-</div>
-
-## 🛠️ Technologies & Tools
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/adityavkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityavkamath" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -25,3 +21,4 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityavkamath&show_icons=true&theme=radical&bg_color=000000&locale=en&layout=compact" alt="abhaygpoojary" /></p>
