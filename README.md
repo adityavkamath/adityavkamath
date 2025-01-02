@@ -32,8 +32,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark" alt="Aditya's GitHub Streak" />
 </div>
+
 
 ## 🤝 Connect with me
 
