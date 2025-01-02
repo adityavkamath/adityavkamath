@@ -4,10 +4,6 @@
 
 <h3 align="center">Just a Programmer trying to get BETTER everyday 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityavkamath&label=Profile%20views&color=39D353&style=flat" alt="Profile views" />
-</p>
-
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="350"/>
 </div>
