@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark" alt="Aditya's GitHub Streak" />
+  ![Aditya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark)
 </div>
 
 ## 🤝 Connect with me
