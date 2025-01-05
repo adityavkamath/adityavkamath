@@ -4,8 +4,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/adityavkamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityavkamath" height="30" width="30" /></a>
-<a href="https://twitter.com/adityavkamath" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="adityavkamath" height="30" width="30" />
+<a href="https://twitter.com/adityavkamath" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityavkamath" height="30" width="30" />
 </a>
 </p>
 
