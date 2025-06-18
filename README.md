@@ -25,4 +25,3 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityavkamath&show_icons=true&theme=radical&bg_color=000000&locale=en&layout=compact" alt="abhaygpoojary" /></p>
