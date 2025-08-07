@@ -58,7 +58,7 @@
 ### 🛠 Featured Projects
 
 - 🖌️ **Scriblio** – Real-time collaborative drawing platform with WebSocket-powered live canvas & chat  
-  [`GitHub`](https://github.com/adityavkamath/scriblio)
+  [`GitHub`](https://github.com/adityavkamath/Scriblio)
 
 - ⚡ **Vibe** – AI-powered full-stack app development tool using GPT agents, tRPC, and E2B sandboxes  
   [`GitHub`](https://github.com/adityavkamath/Vibe)
