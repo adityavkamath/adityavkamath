@@ -15,7 +15,7 @@
 
 ### 🧠 What I Do
 - 🛠️ Build full-stack apps with Next.js, React, TypeScript, tRPC, Prisma, and Tailwind
-- 🤖 Create intelligent AI systems with GPT, LangChain, Autogen, and vector databases
+- 🤖 Create intelligent AI systems with GPT, LangChain, and vector databases
 - 📂 Architect real-time platforms with WebSockets, PostgreSQL, and multi-agent chat
 - 📄 Develop tools for PDF/CSV/web content analysis & multi-source semantic search
 - 🚀 Ship projects using E2B, Clerk, Supabase, Redis, and FastAPI with scalable infra
@@ -58,10 +58,10 @@
 ### 🛠 Featured Projects
 
 - 🖌️ **Scriblio** – Real-time collaborative drawing platform with WebSocket-powered live canvas & chat  
-  [`GitHub`](https://github.com/adityavkamath/excalidraw)
+  [`GitHub`](https://github.com/adityavkamath/scriblio)
 
 - ⚡ **Vibe** – AI-powered full-stack app development tool using GPT agents, tRPC, and E2B sandboxes  
-  [`GitHub`](https://github.com/adityavkamath/Lovable)
+  [`GitHub`](https://github.com/adityavkamath/Vibe)
 
 - 🐦 **TweetCraft AI** – GPT-powered tweet generator & scheduler with Twitter API integration  
   [`GitHub`](https://github.com/adityavkamath/TwitterFluxAI)
