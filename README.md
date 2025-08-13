@@ -43,18 +43,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityavkamath&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavkamath&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityavkamath&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠 Featured Projects
 
 - 🖌️ **Scriblio** – Real-time collaborative drawing platform with WebSocket-powered live canvas & chat  
