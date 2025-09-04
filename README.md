@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Aditya V Kamath</h1>
-<h3 align="center">💻 Full-Stack Developer | 🤖 AI Explorer | 🚀 Always Building</h3>
+<h3 align="center">Full-stack developer & AI explorer — building, breaking & bettering things every day 🚀</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/adityavkamath" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityavkamath" height="30" width="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/adityavkamath" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityavkamath" height="30" width="30" />
   </a>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🛠️ Building **full-stack apps** with Next.js, React, TypeScript, Prisma & Tailwind  
-- 🤖 Exploring **Generative AI** with GPT, LangChain & vector databases  
-- ⚡ Love working on **real-time systems** (WebSockets, multi-agent chat, live collab tools)  
-- 🚀 Always learning, breaking, and bettering things  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="500"/>
 </p>
+
+---
+
+### 🧠 What I Do
+- 🛠️ Build full-stack apps with Next.js, React, TypeScript, tRPC, Prisma, and Tailwind  
+- 🤖 Create intelligent AI systems with GPT, LangChain, and vector databases  
+- 📂 Architect real-time platforms with WebSockets, PostgreSQL, and multi-agent chat  
 
 ---
 
@@ -33,7 +35,5 @@
 ---
 
 ### 💬 Let’s Connect
-💡 Into **AI tools, full-stack systems, or open-source collabs?**  
-📩 Reach out — I’d love to connect and build something cool!  
 
----
+If you’re into building cool AI tools, full-stack systems, or want to collaborate — feel free to reach out!
