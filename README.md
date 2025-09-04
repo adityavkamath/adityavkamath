@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya V Kamath</h1>
-<h3 align="center">Full-stack developer & AI explorer — building, breaking & bettering things every day 🚀</h3>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI Explorer | 🚀 Always Building</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/adityavkamath" target="blank">
